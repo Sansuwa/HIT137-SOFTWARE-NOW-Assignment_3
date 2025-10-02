@@ -1,4 +1,8 @@
-# HIT137 Assignment 3 - Group Project
+# HIT137 Assignment 3 - Group Project 
+
+## Sydney Group - 37
+
+## 
 ## What this package contains
 - `main.py` - entrypoint that launches the GUI
 - `models.py` - Hugging Face model integration (pipelines)
