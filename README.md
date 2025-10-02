@@ -3,10 +3,10 @@
 ## Sydney Group - 37
 
 ## Team Members:
-Asbin Dulal
-Sansuwa Shrestha
-Qyush Shrestha
-Beenu Regmi 
+- Asbin Dulal
+- Sansuwa Shrestha
+- Qyush Shrestha
+- Beenu Regmi 
 
 
 ## What this package contains
